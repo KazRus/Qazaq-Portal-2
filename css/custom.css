@@ -1,0 +1,12 @@
+.top-header {
+    font-size: 16px;
+    background-color: #FDBE19!important;
+    color: #fff;
+    border-bottom: 5px solid #fff;
+}
+.bottom-footer {
+    background-color: #FDBE19 !important;
+    color: #fff;
+    padding: 7px 0;
+}
+
